@@ -22,9 +22,6 @@ const SignOut: React.FC<IProps> = ({ userImage }: IProps) => {
                 </div>
             </div>
         </SignOutStyles>
-
-
-
     )}
 
 export default SignOut;
